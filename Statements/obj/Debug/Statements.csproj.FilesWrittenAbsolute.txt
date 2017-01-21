@@ -1,0 +1,5 @@
+/home/ebeljea/RiderProjects/StructsAndVariablesAndLoopsOhMy/Statements/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ebeljea/RiderProjects/StructsAndVariablesAndLoopsOhMy/Statements/bin/Debug/Statements.exe.mdb
+/home/ebeljea/RiderProjects/StructsAndVariablesAndLoopsOhMy/Statements/bin/Debug/Statements.exe
+/home/ebeljea/RiderProjects/StructsAndVariablesAndLoopsOhMy/Statements/obj/Debug/Statements.exe
+/home/ebeljea/RiderProjects/StructsAndVariablesAndLoopsOhMy/Statements/obj/Debug/Statements.exe.mdb
